@@ -1,0 +1,83 @@
+ol{
+	list-style-type: none;
+	margin:0;
+	padding: 0;
+	width: 200px;
+	background-color: rgb(120, 224, 224);
+	float:left;
+	height:800px;
+}
+
+li a{
+	display:block;
+	color: #000;
+	padding: 8px 16px;
+	text-decoration: none;
+}
+
+la a:hover{
+	background-color: #555;
+	color: white;
+}
+
+.logo{
+	width:500px;
+	float:right;
+}
+
+.geschiedenis{
+	color:red;
+}
+
+.award{
+	width:136px;
+	height:200px;
+	float: right;
+	width:30%;
+	border: black;
+	margin: 0.5px;
+	padding:0.5px;
+	text-align:center;
+	text-indent:0;
+}
+
+.title{
+	text-align:center;
+	color:rgb(114, 175, 219);
+	font-size:32px;
+}
+
+.formulier{
+	color:red;
+}
+.OnderzoekDF{
+	color:red;
+}
+
+.info{
+	width:70%;
+}
+
+.alanturing{
+	width:50px;
+	height:200px;
+	float: right;
+	width: 30%;
+	border: black;
+	margin: 0.5px;
+	padding:0.5px;
+	text-align:center;
+	text-indent:0;
+}
+
+.whitfielddiffie{
+	width:50px;
+	height:200px;
+	float: right;
+	width: 30%;
+	border: black;
+	margin: 0.5px;
+	padding:0.5px;
+	text-align:center;
+	text-indent:0;
+}
